@@ -28,14 +28,14 @@
         </ul>
     </nav>
 <header>
-    <h2>ID-1: Radon</h2>
+    <h2>ID-n: m</h2>
     <hr>
 </header>
 
     <section>
-        <h3>Saksi</h3>
-        <blockquote>"Aku tidak mengerti mengapa kita harus merekrut dia. Dia terlalu sederhana"
-            <cite>- Crack</cite>
+        <h3>Pengamat</h3>
+        <blockquote>"Quote something"
+            <cite>- Admin</cite>
         </blockquote>
     </section>
 
@@ -45,27 +45,27 @@
         <thead>
             <th colspan="2">
                 <figure>
-                <img src="radon-pic.jpg" alt="gambar radon">
-                <figcaption>Radon (kanan) berlatih dengan Blues (kiri) ditonton oleh Sir Leo (tengah)</figcaption>
+                <img alt="gambar lokasi">
+                <figcaption>capt</figcaption>
             </figure>
             </th>
             
         </thead>
         <tr>
             <td>nama</td>
-            <td>Radon</td>
+            <td>W</td>
         </tr>
         <tr>
-            <td>umur</td>
-            <td>21</td>
+            <td>Koordinat</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td>afiliasi</td>
-            <td>Stirling</td>
+            <td>Lokasi relatif</td>
+            <td>Y</td>
         </tr>
         <tr>
-            <td>prisma</td>
-            <td>Markdown (dugaan sementara)</td>
+            <td>Luas/</td>
+            <td>Z</td>
         </tr>
     </table>
 
@@ -73,13 +73,9 @@
     </section>
     <section>
 <h3>Ringkasan Info</h3>
-        <p>Radon adalah penduduk Kota STD di Negara Stirling.
-            Mulanya ia hanyalah seorang mahasiswa matematika di Universitas STD.
-            Karena suatu alasan, dia direkrut oleh Blues untuk persiapan melawan E.MILE.
-            
-            Hal ini dilakukan apabila sewaktu-waktu E.MILE datang menginvasi kembali
-            
-
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque laboriosam optio molestiae soluta, 
+            officia cumque accusantium eius ratione illo consectetur architecto nesciunt. Eius, laborum maxime quisquam nihil quibusdam labore autem!
         </p>
     </section>
     <section>
